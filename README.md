@@ -6,7 +6,7 @@
 
 <h4 > Formação Alura Oracle Next Education</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,github,vscode,react&perline=6)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,github,vscode,python&perline=6)](#)
 
 ##
 
