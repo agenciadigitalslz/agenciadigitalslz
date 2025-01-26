@@ -4,7 +4,7 @@
 
 <h3 align="center">⚡ Veja o que estou aprendendo ⚡</h3>
 
-<h4 > Formação Alura Oracle Next Education</h4>
+<h4 > Formação Alura Oracle Next Education e Ciência de Dados DIO.</h4>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,github,vscode,python,mysql&perline=7)](#)
 
