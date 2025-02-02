@@ -8,7 +8,7 @@
 - **Ciência de Dados** pela DIO 💻
 
 <h4 align="center">
-  <a href="https://www.alura.com.br/">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode,python,mysql&perline=7" alt="Minhas habilidades" />
   </a>
 </h4>
