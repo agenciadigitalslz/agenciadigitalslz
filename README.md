@@ -4,9 +4,6 @@
 
 <h3 align="center">🛠️ O que estou aprendendo atualmente 🛠️</h3>
 
-- Formação em **Alura Oracle Next Education** 🏫
-- **Ciência de Dados** pela DIO 💻
-
 <h4 align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode,python,mysql&perline=7" alt="Minhas habilidades" />
