@@ -5,7 +5,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Estudante de Análise e Desenvolvimento de Sistemas na UEMA, apaixonado por tecnologia e inovação. Atualmente, faço parte do programa Alura Next ONE G8 e estudo Ciência de Dados na DIO.
+Estudante de Análise e Desenvolvimento de Sistemas na UEMA, apaixonado por tecnologia e inovação. Atualmente, faço parte do programa Alura Next ONE G8 e DIO Campus Expert Universitário.
 
 - 🎓 Cursando ADS na UEMA
 - 🌱 Aprendendo Python e Ciência de Dados
