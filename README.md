@@ -1,6 +1,6 @@
 <div align="center">
   <h1>André Lopes 🚀</h1>
-  <h3>Arquiteto de Software | Full Stack Developer | CEO da Agência Digital SLZ</h3>
+  <h3>Arquiteto de Software | Full Stack Developer | CEO da Agência Digital LTDA</h3>
 </div>
 
 ## 👨‍💻 Sobre mim
